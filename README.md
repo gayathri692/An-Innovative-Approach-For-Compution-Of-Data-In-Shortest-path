@@ -1,2 +1,2 @@
 # An-Innovative-Approach-For-Compution-Of-Data-In-Shortest-path
-Nowdays we use a Dijkstra alogrithm to find the shortest path in which we use the pre-defined factor the shortest path .To overcome this we use two techinque called Random discretization and path delay discreization.Till all possible path is calculated. By calculating the time delay between the two nodes (link delay) we calculate find the time taken by a source to reach the destination.
+To find shortest path in a network using two techinqiues called Random discretization and path delay discreization methods.
